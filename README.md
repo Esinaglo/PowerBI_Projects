@@ -1,5 +1,6 @@
 
 Introduction
+
 The history of police shootings in the US is painful and characterized by systemic issues and racial disparities. From 2015 – 2020, thousands of Americans died due to police shootings.  These shootings have been under intense scrutiny as citizens are advocating for justice and accountability to put a stop to police brutality. This data collected provides insights into the demographics, circumstances and outcomes of these shootings to shape the ongoing conversation around reforming police practices.
 Data Overview
 The data was accessed from the US Police Department Records. The data contains the following attributes;
